@@ -1,0 +1,349 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+header {
+    
+    display: flex;
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #25373f;
+    align-items: center;
+    
+}
+.p2plogo {
+    width: 138px;
+}
+.card-img-top {
+    width: 150px;
+}
+.navbar-nav1{
+    display: flex;
+    font-size: 16px;
+    margin-left: 86%;
+    font-family: -webkit-pictograph;
+    color: aliceblue;
+}
+.ContenedorLogo {
+    margin-left: 5%;
+}
+.nav-item1 a{
+    color: aliceblue;
+}
+.MenuNav{
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    
+}
+ul a {
+    color: aliceblue;
+}
+.right-top {
+    
+    margin-left: 41%;
+    margin-right: 2%;
+}
+header h1 {
+    font-family: -webkit-pictograph;
+    font-size: 16px;
+    color: aliceblue;
+    font-weight: 500;
+    
+}
+.BtnHeader {
+    border-radius: 5px;
+    border-width: 0;
+    padding: 15px 30px;
+    color: rgb(7, 14, 27);
+    font-size: 15px;
+    font-family: -webkit-pictograph;
+    font-weight: 500;
+    background-color: #20bfa9;
+}
+.BtnHeader:hover {
+    color: aliceblue;
+}
+.section01 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.section01 h1 {
+    font-family: sans-serif;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 44px;
+}
+.Title01 {
+    position: absolute;
+    padding-bottom: 45%;
+}
+.subtitle01 {
+    position: absolute;
+    padding-bottom: 35%;
+}
+.subtitle01 h2 {
+    font-family: system-ui;
+    font-weight: 400;
+    color: aliceblue;
+    text-align: center;
+}
+.backround01 {
+    width: 100%;
+    background: aqua;
+    opacity: 45%;
+}
+.contenedor-backround {
+    background: #182338c7;;
+}
+.BtnSection01 {
+    border-radius: 5px;
+    border-width: 0;
+    padding: 15px 30px;
+    color: rgb(7, 14, 27);
+    font-size: 15px;
+    font-family: -webkit-pictograph;
+    font-weight: 500;
+    background-color: #20bfa9;
+}
+.BtnSection01:hover {
+    color: aliceblue;
+}
+.ButtonSection01 {
+    position: absolute;
+    padding-bottom: 20%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+.ButtonSection01 p {
+    font-family: system-ui;
+    color: aliceblue;
+    font-size: 13px;
+}
+
+.contenedorImagen {
+    position: absolute;
+    padding-top: 50%;
+    
+}
+.columnas {
+    display: flex;
+    padding-left: 8%;
+    padding-right: 6%;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.contenedorColumnas {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30%;
+}
+.columnas h1 {
+    font-family: system-ui;
+    text-align: center;
+}
+.fas-fa-circle {
+    font-size: 10px;
+    color: #FC5C65;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    background: rgb(252 87 95 / 17%);
+    margin-top: -13%;
+}
+.columnas h2 {
+    font-family: system-ui;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Section03 {
+    background-color: #f8fbfe;
+    padding-bottom: 50%;
+}
+.Imagen02 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 17%;
+    box-shadow: -4px 2px 20px 0px #00000045;
+    border-radius: 8px;
+}
+.Imagen01 {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 15%;
+    box-shadow: -4px 2px 20px 0px #00000045;
+    border-radius: 8px;
+}
+.imagenAbajo {
+    border-radius: 8px;
+    box-shadow: -4px 2px 20px 0px #00000045;
+}
+.Section02 {
+    padding-bottom: 5%;
+}
+.Section03 h1 {
+    font-size: 40px;
+    font-family: system-ui;
+}
+.TextoImagen {
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 9%;
+}
+.Section03 p {
+    font-family: system-ui;
+    font-size: 18px;
+}
+.ButtonSection03 {
+    border-radius: 5px;
+    border-width: 0;
+    padding: 15px 30px;
+    color: rgb(7, 14, 27);
+    font-size: 15px;
+    font-family: -webkit-pictograph;
+    font-weight: 500;
+    background-color: #20bfa930
+}
+.TextoImagen02 {
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 8%;
+}
+.Section04 {
+    padding-bottom: 10%;
+}
+.Section04 h1 {
+    font-size: 40px;
+    font-family: system-ui;
+}
+.Section04 p {
+    font-family: system-ui;
+    font-size: 18px;
+}
+.Imagen03 {
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 8%;
+    box-shadow: -4px 2px 20px 0px #00000045;
+    border-radius: 8px;
+}
+.Imagen04 {
+    margin-left: 70.5%;
+    margin-top: 12%;
+    box-shadow: -4px 2px 20px 0px #00000045;
+    border-radius: 8px;
+}
+.ImageVideo {
+    position: absolute;
+    width: 100%;
+    opacity: 50%;
+}
+.Section05 {
+    background-color: #3b3c3c;
+    padding-bottom: 440px;
+}
+.fasfa-play {
+    background: #fff;
+    width: 96px;
+    height: 96px;
+    line-height: 96px;
+    border-radius: 50%;
+    text-align: center;
+    color: #50E3C2;
+    position: absolute;
+    margin-left: 48%;
+    margin-top: 6%;
+}
+.texto05 {
+    position: absolute;
+    display: flex;
+    margin-left: 26%;
+    margin-top: 14%;
+    align-items: center;
+    flex-direction: column;
+}
+.texto05 h1 {
+    font-size: 40px;
+    font-family: system-ui;
+    font-weight: 700;
+    color: aliceblue;
+}
+.texto05 p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 0%;
+}
+.play-button {
+    margin: -13px auto; 
+    top: 50%;
+    margin-left: 40%;
+    position: relative;
+    border-style: solid;
+    border-width: 0.9em 0px 0.9em 1.4em;
+    border-color: transparent transparent transparent #50E3C2;
+    
+  }
+  .TituloS6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+  }
+  .TituloS6 h1 {
+    font-size: 35px;
+    font-family: system-ui;
+  }
+  .TituloS6 p {
+    text-align: center;
+    font-size: 18px;
+    font-family: system-ui;
+    font-weight: 500;
+    margin-top: 0%;
+  }
+  .card-img-top {
+    width: 55px;
+    margin-left: 6%;
+    margin-top: 6%;
+  }
+.card-group {
+    width: 68%;
+}
+.ContenedorCards {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.Section06 {
+    padding-bottom: 8%;
+}
+.SectionFooter {
+    background-color: #23314e;
+    padding-bottom: 15%;
+}
+
+.ImgFooter {
+    width: 100%;
+}
+.footer {
+    position: absolute;
+    padding-top: 6%;
+}
